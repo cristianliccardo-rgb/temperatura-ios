@@ -15,7 +15,7 @@ targets:
     platform: iOS
 
     sources:
-      - path: Sources
+      - path: Source
 
     settings:
       base:
