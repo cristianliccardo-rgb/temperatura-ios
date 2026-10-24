@@ -1,6 +1,6 @@
 import SwiftUI
 
-@main
+@Source
 struct TemperaturaApp: App {
     var body: some Scene {
         WindowGroup {
